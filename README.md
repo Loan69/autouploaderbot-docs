@@ -1,0 +1,1 @@
+# autouploaderbot-docs
